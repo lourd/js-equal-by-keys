@@ -10,7 +10,8 @@
   "files": ["cjs", "esm", "umd"],
   "scripts": {
     "build": "node scripts/build.js",
-    "test": "jest"
+    "test": "jest",
+    "release": "node scripts/release.js"
   },
   "keywords": [
     "utility",
