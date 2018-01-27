@@ -7,7 +7,11 @@
   "license": "MIT",
   "main": "cjs/@lourd/react-google-sheet.js",
   "module": "esm/@lourd/react-google-sheet.js",
-  "files": ["cjs", "esm", "umd"],
+  "files": [
+    "cjs",
+    "esm",
+    "umd"
+  ],
   "scripts": {
     "build": "node scripts/build.js",
     "test": "jest",
@@ -30,6 +34,7 @@
     "gzip-size": "^4.1.0",
     "jest": "^22.1.4",
     "pretty-bytes": "^4.0.2",
+    "readline-sync": "^1.4.7",
     "rollup": "^0.55.1",
     "rollup-plugin-node-resolve": "^3.0.2",
     "rollup-plugin-uglify": "^3.0.0"
