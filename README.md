@@ -17,7 +17,7 @@ yarn install @lourd/equal-by-keys
 
 ### In the browser
 
-Available as a simple `<script>` through unpkg.com at https://unpkg.com/@lourd/equal-by-keys. The function will be available as the global variable `equalByKeys`.
+[Available as a simple `<script>` through unpkg.com](https://unpkg.com/@lourd/equal-by-keys@0.1.0/umd/@lourd/equal-by-keys.js). The function will be available as the global variable `equalByKeys`.
 
 ## API
 
